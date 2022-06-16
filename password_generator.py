@@ -11,7 +11,7 @@ def password_generator():
     password = []
 
     for i in range(16):
-        random_character = random(string)
+        random_character = random.choice(string)
         password.append(random_character)
 
     password = "".join(password)
