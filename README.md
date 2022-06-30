@@ -15,7 +15,7 @@ How long do you want your password to be? (minimun recommended: 15) 15
 Your random secure password is: ryF5gt&pZ°-$dYs
 ```
 
-*That's pretty much all there is to it*
+*Your password is done and dusted*
 
 ### What I learned
 I've learned some stuff with this project, *mostly basic things but those things had to be learn a way or another*
