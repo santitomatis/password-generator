@@ -25,7 +25,7 @@ I've learned some stuff with this project, *mostly basic things but those things
 - "".join() feature
 
 
-As [mentioned before](https://github.com/santitomatis/password-generator), this is just my version of the final project of [Platzi's course](https://platzi.com/cursos/python/)
+As [mentioned before](https://github.com/santitomatis/password-generator/tree/main#password-generator), this is just my version of the final project at [Platzi's course](https://platzi.com/cursos/python/)
 
 
 ![certificadoCursoBasicoPython](https://user-images.githubusercontent.com/86212669/176564841-410e78cf-518f-4fe3-bb7b-a338679657e8.png)
